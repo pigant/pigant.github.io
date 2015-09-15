@@ -10,6 +10,14 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
+Algo de texto
+=============
+
+Otro poco de texto
+------------------
+
+### El tercer titulo
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
@@ -17,6 +25,33 @@ end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
+
+{% highlight java %}
+private int sumar(int a, int b){
+    return a + b;
+}
+{% endhighlight %}
+
+>Probando los blockquote
+>
+>Esperando que sea decente
+>
+> ## Por el bien de la humanidad
+>
+>
+>Entonces tenemos la lista:
+>
+> *   Lista 1
+> *   Lista 2
+> *   Lista 3
+> *   Lista 4
+> *   Lista 5
+
+## Lista ordenada
+
+1. Item 1
+2. Item 2
+3. Item 3
 
 Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll’s dedicated Help repository][jekyll-help].
 
