@@ -1,15 +1,16 @@
 ---
 layout: post
 title:  "NamedQuery"
-date:   2015-09-15 13:43:06
+date:   2016-07-01 11:11:06
 categories: jekyll update
 excerpt: 
 hide: 0
 ---
-## Intención ##
+## NamedQuery ##
 
-> Espero recordar esto
+> Uso del NamedQuery
 >
 
-probando
+![NamedQuery]({{ site.url }}/assets/namedquery.gif "NamedQuery")
+![NamedQueryUse]({{ site.url }}/assets/namedquery_use.gif "NamedQueryUse")
 
