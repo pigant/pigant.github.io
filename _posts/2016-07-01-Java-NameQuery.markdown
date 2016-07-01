@@ -11,6 +11,8 @@ hide: 0
 
 ![NamedQuery]({{ site.url }}/assets/namedquery.gif "NamedQuery")
 
+Lo que va en el setParameter como string, son los nombres definidos como :user
+y :pass
 
 ## Uso del NamedQuery ##
 
